@@ -27,7 +27,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python gemini_sim/world.py --gemini
+          python world.py --gemini
 
       - name: Upload simulation report artifact
         if: always()

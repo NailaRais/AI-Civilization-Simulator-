@@ -1,2 +1,0 @@
-Time: 10 steps, Agents: 289, Avg Ethics: 0.51, Avg Selfishness: 0.29, Avg Curiosity: 0.70, Avg Energy: 3.47
-Gemini Ethics Score: N/A

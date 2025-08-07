@@ -1,2 +1,2 @@
-No agents alive.
+Time: 20 steps, Agents: 10, Avg Ethics: 0.55, Avg Selfishness: 0.27, Avg Curiosity: 0.68, Avg Energy: 1.60
 Gemini Ethics Score: N/A
